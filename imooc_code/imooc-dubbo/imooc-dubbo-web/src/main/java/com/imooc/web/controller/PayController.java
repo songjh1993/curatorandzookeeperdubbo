@@ -1,5 +1,6 @@
 package com.imooc.web.controller;
 
+import com.imooc.common.utils.ZKCurator;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -15,7 +16,8 @@ import com.imooc.web.service.CulsterService;
  */
 @Controller
 public class PayController {
-	
+	@Autowired
+	private ZKCurator zkCurator;
 	@Autowired
 	private CulsterService buyService;
 	
@@ -36,5 +38,12 @@ public class PayController {
 		
 		return IMoocJSONResult.ok();
 	}
-	
+
+	@RequestMapping("/isZkAlive")
+	@ResponseBody
+	public IMoocJSONResult isZkAlive() {
+		boolean isAlive = zkCurator.isZkAlive();
+		String result = isAlive ? "连接" : "断开";
+		return IMoocJSONResult.ok(result);
+	}
 }
