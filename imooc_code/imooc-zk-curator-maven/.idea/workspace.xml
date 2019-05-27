@@ -1,7 +1,214 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0de12d34-d715-42e4-bafd-137bc2df0437" name="Default Changelist" comment="" />
+    <list default="true" id="0de12d34-d715-42e4-bafd-137bc2df0437" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../imooc-dubbo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-dubbo/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-dubbo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/imooc-dubbo-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/imooc-dubbo-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/enums/OrderStatusEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/enums/SexEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/enums/YesOrNo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/pojo/JqGridResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/utils/IMoocJSONResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/classes/com/imooc/common/utils/JsonUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/imooc-dubbo-common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/pojo/Items.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/pojo/ItemsExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/pojo/ItemsExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/pojo/ItemsExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/pojo/ItemsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/classes/com/imooc/item/service/ItemsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/imooc-dubbo-item-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/META-INF/spring/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/com/imooc/item/mapper/ItemsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/com/imooc/item/service/impl/ItemsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/com/imooc/item/starter/ItemApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/mybatis/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/resource/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/spring/applicationContext-dubbo-provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/spring/applicationContext-transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/classes/spring/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/imooc-dubbo-item-service.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/audience-annotations-0.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/druid-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/imooc-dubbo-item-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/jconsole-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/junit-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/mysql-connector-java-5.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/netty-3.10.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/pagehelper-4.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-aspects-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-jdbc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-tx-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/spring-webmvc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/tools-1.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/zkclient-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/lib/zookeeper-3.4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-item-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/pojo/Orders.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/pojo/OrdersExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/pojo/OrdersExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/pojo/OrdersExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/pojo/OrdersExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/classes/com/imooc/order/service/OrdersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/imooc-dubbo-order-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-api/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/com/imooc/order/mapper/OrdersMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/com/imooc/order/mapper/OrdersMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/com/imooc/order/service/impl/OrdersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/mybatis/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/resource/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/spring/applicationContext-dubbo-provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/spring/applicationContext-transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/classes/spring/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/com/imooc/order/mapper/OrdersMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/com/imooc/order/mapper/OrdersMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/com/imooc/order/service/impl/OrdersServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/mybatis/SqlMapConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/resource/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/spring/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/spring/applicationContext-dubbo-provider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/spring/applicationContext-transaction.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/classes/spring/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/audience-annotations-0.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/druid-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/imooc-dubbo-order-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/jsqlparser-0.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/junit-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/mybatis-3.2.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/mybatis-paginator-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/mybatis-spring-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/mysql-connector-java-5.1.41.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/netty-3.10.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/pagehelper-4.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/zkclient-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/lib/zookeeper-3.4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/imooc-dubbo-order-service/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-order-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/com/imooc/web/controller/PayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/com/imooc/web/service/CulsterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/com/imooc/web/service/impl/CulsterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/spring/applicationContext-dubbo-consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/com/imooc/web/controller/PayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/com/imooc/web/service/CulsterService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/com/imooc/web/service/impl/CulsterServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/spring/applicationContext-dubbo-consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/spring/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/classes/spring/springmvc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/jsp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/aspectjweaver-1.8.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/audience-annotations-0.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-codec-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-httpclient-3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-io-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-lang3-3.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-logging-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/commons-net-3.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/curator-client-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/curator-framework-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/curator-recipes-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/dubbo-2.5.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/guava-20.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/httpclient-4.3.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/httpcore-4.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/imooc-dubbo-common-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/imooc-dubbo-item-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/imooc-dubbo-order-api-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/jackson-annotations-2.7.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/jackson-core-2.7.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/jackson-databind-2.7.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/javassist-3.15.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/jline-0.9.94.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/junit-3.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/log4j-1.2.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/netty-3.10.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/netty-3.2.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/slf4j-api-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/slf4j-log4j12-1.7.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-tx-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/zkclient-0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/lib/zookeeper-3.4.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/imooc-dubbo-web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../imooc-dubbo/imooc-dubbo-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +225,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1804">
-              <caret line="91" column="41" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="41" />
+            <state relative-caret-position="242">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -27,14 +234,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/CuratorOperator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="143" column="2" lean-forward="true" selection-start-line="143" selection-start-column="2" selection-end-line="143" selection-end-column="2" />
-              <folding>
-                <element signature="e#3973#4102#0" expanded="true" />
-                <element signature="e#4101#4102#0" expanded="true" />
-                <element signature="e#5537#6574#0" expanded="true" />
-                <element signature="e#6573#6574#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2948">
+              <caret line="143" column="2" selection-start-line="143" selection-start-column="2" selection-end-line="143" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -42,7 +243,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/CuratorAcl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-572">
+            <state relative-caret-position="88">
               <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
@@ -51,8 +252,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/checkConfig/Client1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+            <state relative-caret-position="814">
+              <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
               <folding>
                 <element signature="e#1936#3912#0" expanded="true" />
                 <element signature="e#3911#3912#0" expanded="true" />
@@ -78,6 +279,9 @@
       <find>nodePath</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -91,11 +295,14 @@
     <option name="width" value="1260" />
     <option name="height" value="733" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -181,14 +388,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../imooc-dubbo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -216,16 +422,18 @@
       <updated>1558532821364</updated>
       <workItem from="1558532822649" duration="4537000" />
       <workItem from="1558614629785" duration="2091000" />
+      <workItem from="1558872369577" duration="105000" />
+      <workItem from="1558883512844" duration="624000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6628000" />
+    <option name="totallyTimeSpent" value="7357000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1280" height="773" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16451614" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16935484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info id="Designer" order="3" />
@@ -296,37 +504,31 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/MyWatcher.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/MyCuratorWatcher.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/CuratorAcl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-572">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="242">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/CuratorOperator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="143" column="2" lean-forward="true" selection-start-line="143" selection-start-column="2" selection-end-line="143" selection-end-column="2" />
-          <folding>
-            <element signature="e#3973#4102#0" expanded="true" />
-            <element signature="e#4101#4102#0" expanded="true" />
-            <element signature="e#5537#6574#0" expanded="true" />
-            <element signature="e#6573#6574#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2948">
+          <caret line="143" column="2" selection-start-line="143" selection-start-column="2" selection-end-line="143" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/CuratorAcl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/checkConfig/Client1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="53" column="50" lean-forward="true" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
+        <state relative-caret-position="814">
+          <caret line="53" column="50" selection-start-line="53" selection-start-column="50" selection-end-line="53" selection-end-column="50" />
           <folding>
             <element signature="e#1936#3912#0" expanded="true" />
             <element signature="e#3911#3912#0" expanded="true" />
@@ -334,10 +536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/curator/MyCuratorWatcher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1804">
-          <caret line="91" column="41" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="41" />
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
